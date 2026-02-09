@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# VS Code settings
+.vscode/
+
+# Mac OS / Windows system files
+.DS_Store
+Thumbs.db
