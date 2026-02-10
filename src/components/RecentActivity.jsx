@@ -1,4 +1,5 @@
 import React from "react";
+import RecentActivity from "../components/RecentActivity";
 
 const RecentActivity = () => {
   const activities = [

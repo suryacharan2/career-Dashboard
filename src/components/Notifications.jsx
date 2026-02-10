@@ -1,4 +1,5 @@
 import React from "react";
+import Notifications from "../components/Notifications";
 
 const Notifications = () => {
   const messages = [

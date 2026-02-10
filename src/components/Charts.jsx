@@ -1,5 +1,5 @@
 import React from "react";
-import { Line, Bar } from "react-chartjs-2";
+import { LineChart, BarChart } from "../components/Charts";
 import {
   Chart as ChartJS,
   CategoryScale,

@@ -1,4 +1,6 @@
 import React from "react";
+import JobSearch from "../components/JobSearch";
+
 
 const JobSearch = () => {
   return (
