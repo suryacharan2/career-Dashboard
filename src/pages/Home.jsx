@@ -1,5 +1,6 @@
 import React from "react";
-import DashboardCard from "../components/DashboardCard";
+import DashboardCard from "../components/DashboardCard.jsx";
+
 
 const Home = () => (
   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
